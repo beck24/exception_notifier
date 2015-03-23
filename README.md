@@ -1,7 +1,9 @@
 # Exception Notifier
 
 When an error (called an exception in code-talk) occurs it can confuse users,
-often they will not know what to do and issues will go unreported.  This plugin
+often they will not know what to do and issues will go unreported.  Additionally
+exceptions can happen during background processes or ajax endpoints that aren't
+generally visible.  As such these errors also go un/under-reported.  This plugin
 allows you to assign a set of email addresses to receive notifications whenever
 an exception occurs.  The email will contain a description of the error as well
 as a stack trace - all information that can be useful for a developer to track
