@@ -1,0 +1,20 @@
+{
+    "name": "beck24/exception_notifier",
+    "type": "elgg-plugin",
+    "description": "Send an email with technical details of any exceptions suffered by the site<",
+    "homepage": "https://github.com/beck24/exception_notifier",
+    "keywords": ["elgg", "plugin", "exception", "notifier", "error"],
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Matt Beckett"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/beck24/exception_notifier/issues"
+    },
+    "require": {
+        "php": ">=5.4",
+        "composer/installers": ">=1.0.8"
+    }
+}
