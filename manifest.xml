@@ -3,7 +3,7 @@
     <name>Exception Notifier</name>
     <id>exception_notifier</id>
     <author>Matt Beckett</author>
-    <version type="dist">1.0</version>
+    <version type="dist">1.0.1</version>
     <category>admin</category>
     <description>Send an email with technical details of any exceptions suffered by the site</description>
     <website>http://mattbeckett.me</website>
